@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Liaquat Ali 👋
 
-<!--
-**wetssales2014/wetssales2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Mechanical Engineer | CEO at World Engineering Tooling Solution
 
-Here are some ideas to get you started:
+I specialize in bridging the gap between global engineering excellence and local industrial needs. As a Mechanical Engineer, I focus on high-precision industrial tools and ensuring every component meets rigorous international standards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏢 About World Engineering Tooling Solution
+We are premier importers and exporters of high-performance engineering tools, providing genuine and durable solutions directly from global leaders.
+
+**Authorized Partners/Contractors for:**
+* 🇨🇳 **SANT (China):** Precision cutting and tooling solutions.
+* 🇯🇵 **Tungaloy (Japan):** World-class innovative metal cutting tools.
+* 🇮🇹 **RGP Balls (Italy):** High-precision balls and bearing components.
+
+---
+
+### ⚙️ Technical Expertise
+* **Precision Engineering:** Industrial tooling and component selection.
+* **Quality Assurance:** International standards compliance.
+* **Supply Chain:** Global sourcing from Japan, Italy, and China.
+
+---
+
+### 📫 Connect with me:
+* **Company:** World Engineering Tooling Solution
+* **Expertise:** Mechanical Engineering & Industrial Solutions
+
+---
+
+*“Powering industrial success through genuine and durable engineering tools.”*
